@@ -26,5 +26,19 @@ namespace UnitTestProject1
         {
             Assert.That(1 == 2, Is.False);
         }
+
+        [Test]
+        public void GetEmpNameTest()
+        {
+            string abc = "" + DataAccess.DataAccess.ExecuteScalar("Select Top 1 EmployeeID From Employee");
+
+            var xyz = ActMgr.GetEmployee();
+
+
+            Assert.That(xyz, Is.Not.Null);
+            Assert.That(xyz, Is.EqualTo(abc));
+
+        }
     }
+
 }
