@@ -14,7 +14,7 @@ namespace DataAccess
         {
 
             string connectionString =
-                "Data Source=(local)\SQL2012SP1;" +
+                "Data Source=(local)\\SQL2012SP1;" +
                 "Initial Catalog=BQSample2015;" +
                 "User ID=sa;" +
                 "Password=iaf349";
