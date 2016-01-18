@@ -28,13 +28,13 @@ namespace DataAccess
             SqlCommand command = new SqlCommand();
             command.Connection = CreateConnection();
 
-            try
-            {
-                command.Connection.Open();
-            }
-            catch (Exception ex)
-            {
-            }
+            //try
+            //{
+            command.Connection.Open();
+            //}
+            //catch (Exception ex)
+            //{
+            //}
             return command;
         }
 
