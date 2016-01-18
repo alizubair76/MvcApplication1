@@ -14,10 +14,10 @@ namespace DataAccess
         {
 
             string connectionString =
-                "Data Source=.\\SQLExpress2012;" +
-                "Initial Catalog=BQSample2015;" +
+                "Data Source=(local)\\SQL2012SP1;" +
+                "Initial Catalog=master;" +
                 "User ID=sa;" +
-                "Password=iaf349";
+                "Password=Password12";
 
             return new SqlConnection(connectionString);
 
