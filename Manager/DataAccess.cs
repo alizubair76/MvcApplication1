@@ -17,7 +17,7 @@ namespace DataAccess
                 "Data Source=.\\SQL2012SP1;" +
                 "Initial Catalog=BQSample2015;" +
                 "User ID=sa;" +
-                "Password=iaf349";
+                "Password=Password12!";
 
             return new SqlConnection(connectionString);
 
