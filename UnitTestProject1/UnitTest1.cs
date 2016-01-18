@@ -22,7 +22,7 @@ namespace UnitTestProject1
         }
 
         [Test]
-        public void TestMethod1()
+        public void TestMethod2()
         {
             Assert.That(1 == 2, Is.False);
         }
