@@ -1,0 +1,5 @@
+c:\users\zubair ali\documents\visual studio 2012\Projects\MvcApplication1\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+c:\users\zubair ali\documents\visual studio 2012\Projects\MvcApplication1\Manager\bin\Debug\Manager.dll
+c:\users\zubair ali\documents\visual studio 2012\Projects\MvcApplication1\Manager\bin\Debug\Manager.pdb
+c:\users\zubair ali\documents\visual studio 2012\Projects\MvcApplication1\Manager\obj\Debug\Manager.dll
+c:\users\zubair ali\documents\visual studio 2012\Projects\MvcApplication1\Manager\obj\Debug\Manager.pdb
