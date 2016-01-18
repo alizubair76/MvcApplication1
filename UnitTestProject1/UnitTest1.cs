@@ -20,5 +20,11 @@ namespace UnitTestProject1
             Assert.That(xyz, Is.EqualTo(abc));
 
         }
+
+        [Test]
+        public void TestMethod1()
+        {
+            Assert.That(1 == 2, Is.False);
+        }
     }
 }
