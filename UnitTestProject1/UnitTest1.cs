@@ -30,7 +30,6 @@ namespace UnitTestProject1
         [Test]
         public void GetEmpNameTest()
         {
-
             string abc = "" + DataAccess.DataAccess.ExecuteScalar("Select Top 1 EmployeeID From Employee");
 
             var xyz = ActMgr.GetEmployee();
