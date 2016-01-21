@@ -46,7 +46,7 @@ namespace UnitTestProject1
         public void TestMethod1()
         {
 
-            string abc = "" + _GeneralFunctions.ExecuteScalar("Select Top 1 EmployeeID From Employee");
+            dfdlstring abc = "" + _GeneralFunctions.ExecuteScalar("Select Top 1 EmployeeID From Employee");
 
             var xyz = ActMgr.GetEmployee();
 
