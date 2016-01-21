@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication1", "MvcApplication1\MvcApplication1.csproj", "{424AFC66-72F7-4B1F-BF2F-3585A0BD7E67}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{41882510-34D8-4D72-A85D-7B439752D50B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manager", "Manager\Manager.csproj", "{61C6B463-33D4-4ACD-9C6E-B32508563717}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{B37E7BEB-F4DB-4D02-8BBB-F162856AB4D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +29,10 @@ Global
 		{61C6B463-33D4-4ACD-9C6E-B32508563717}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61C6B463-33D4-4ACD-9C6E-B32508563717}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61C6B463-33D4-4ACD-9C6E-B32508563717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B37E7BEB-F4DB-4D02-8BBB-F162856AB4D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B37E7BEB-F4DB-4D02-8BBB-F162856AB4D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B37E7BEB-F4DB-4D02-8BBB-F162856AB4D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B37E7BEB-F4DB-4D02-8BBB-F162856AB4D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

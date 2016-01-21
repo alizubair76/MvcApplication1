@@ -5,23 +5,27 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace DataAccess
 {
-    public class DataAccess
+    public class _GeneralFunctions
     {
         private static SqlConnection CreateConnection()
         {
 
+            string settingPath = System.IO.Directory.GetCurrentDirectory() + @"\Setting\Setting.xml";
+            XDocument settingXML = XDocument.Load(settingPath);
+
+            XElement settings = settingXML.Element("Settings");
+
+            XElement sqlSettings = settings.Element("SQLSettings");
+
             string connectionString =
-                //"Data Source=.\\SQLExpress2012;" +
-                //"Initial Catalog=BQSample2015;" +
-                //"User ID=sa;" +
-                //"Password=iaf349";
-                "Data Source=.\\SQL2012SP1;" +
-                "Initial Catalog=BQSample2015;" +
-                "User ID=sa;" +
-                "Password=Password12!";
+                "Data Source=" + sqlSettings.Element("ServerName").Value + ";" +
+                "Initial Catalog=" + sqlSettings.Element("Database").Value + ";" +
+                "User ID=" + sqlSettings.Element("UserID").Value + ";" +
+                "Password=" + sqlSettings.Element("Password").Value;
 
             return new SqlConnection(connectionString);
 

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <EmailSettings>
+    <AutoEmail>False</AutoEmail>
+    <SendAttachment>True</SendAttachment>
+    <ShowTestCaseDetails>True</ShowTestCaseDetails>
+    <From>qackashmir@gmail.com</From>
+    <To>zubair@bqe.com</To>
+    <!--separate multiple CC emails by comma (,)-->
+    <CC></CC>
+    <NameToDisplay>Automated Tests</NameToDisplay>
+    <Password>qackashmir!1</Password>
+    <SmtpServerAddress>smtp.gmail.com</SmtpServerAddress>
+    <SmptPort>587</SmptPort>
+  </EmailSettings>
+</Settings>

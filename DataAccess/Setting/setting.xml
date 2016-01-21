@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <SQLSettings>
+    <ServerName>.\SQLEXPRESS2012</ServerName>
+    <Database>GalaxySample</Database>
+    <UserID>sa</UserID>
+    <Password>iaf349</Password>
+  </SQLSettings>
+</Settings>

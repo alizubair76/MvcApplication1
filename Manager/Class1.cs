@@ -12,7 +12,7 @@ namespace Manager
         public static object GetEmployee()
         {
 
-            return DataAccess.DataAccess.ExecuteScalar("Select Top 1 EmployeeID From Employee");
+            return _GeneralFunctions.ExecuteScalar("Select Top 1 EmployeeID From Employee");
         }
     }
 }
