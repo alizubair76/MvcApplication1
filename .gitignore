@@ -49,3 +49,8 @@ Temporary Items
 *.pdb
 *.dll
 *.xml
+*.config
+*.force
+*.cache
+*.txt
+*.pdb
