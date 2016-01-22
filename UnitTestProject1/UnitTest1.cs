@@ -50,8 +50,8 @@ namespace UnitTestProject1
 
             var xyz = ActMgr.GetEmployee();
 
-            Assert.That(xyz, Is.Null);
-            Assert.That(xyz, Is.Not.EqualTo(abc));
+            Assert.That(xyz, Is.Not.Null);
+            Assert.That(xyz, Is.EqualTo(abc));
 
         }
 
