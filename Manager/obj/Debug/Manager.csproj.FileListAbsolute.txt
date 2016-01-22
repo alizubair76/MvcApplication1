@@ -3,3 +3,6 @@ c:\users\zubair ali\documents\visual studio 2012\Projects\MvcApplication1\Manage
 c:\users\zubair ali\documents\visual studio 2012\Projects\MvcApplication1\Manager\bin\Debug\Manager.pdb
 c:\users\zubair ali\documents\visual studio 2012\Projects\MvcApplication1\Manager\obj\Debug\Manager.dll
 c:\users\zubair ali\documents\visual studio 2012\Projects\MvcApplication1\Manager\obj\Debug\Manager.pdb
+C:\Users\zubair ali\Documents\Visual Studio 2012\Projects\MvcApplication1\Manager\bin\Debug\Setting\setting.xml
+C:\Users\zubair ali\Documents\Visual Studio 2012\Projects\MvcApplication1\Manager\bin\Debug\DataAccess.dll
+C:\Users\zubair ali\Documents\Visual Studio 2012\Projects\MvcApplication1\Manager\bin\Debug\DataAccess.pdb

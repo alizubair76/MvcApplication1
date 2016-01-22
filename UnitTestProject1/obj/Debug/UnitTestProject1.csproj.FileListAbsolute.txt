@@ -7,3 +7,7 @@ c:\users\zubair ali\documents\visual studio 2012\Projects\MvcApplication1\UnitTe
 c:\users\zubair ali\documents\visual studio 2012\Projects\MvcApplication1\UnitTestProject1\bin\Debug\nunit.framework.dll
 c:\users\zubair ali\documents\visual studio 2012\Projects\MvcApplication1\UnitTestProject1\bin\Debug\Manager.pdb
 c:\users\zubair ali\documents\visual studio 2012\Projects\MvcApplication1\UnitTestProject1\bin\Debug\nunit.framework.xml
+C:\Users\zubair ali\Documents\Visual Studio 2012\Projects\MvcApplication1\UnitTestProject1\bin\Debug\Settings\Settings.xml
+C:\Users\zubair ali\Documents\Visual Studio 2012\Projects\MvcApplication1\UnitTestProject1\bin\Debug\Setting\setting.xml
+C:\Users\zubair ali\Documents\Visual Studio 2012\Projects\MvcApplication1\UnitTestProject1\bin\Debug\DataAccess.dll
+C:\Users\zubair ali\Documents\Visual Studio 2012\Projects\MvcApplication1\UnitTestProject1\bin\Debug\DataAccess.pdb
