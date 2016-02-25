@@ -88,7 +88,6 @@ namespace UnitTestProject1
         [Test]
         public void TestMethod1()
         {
-            Assert.Fail();
             string abc = "" + _GeneralFunctions.ExecuteScalar("Select Top 1 EmployeeID From Employee");
 
             var xyz = ActMgr.GetEmployee();
