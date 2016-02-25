@@ -6,3 +6,11 @@ c:\users\zubair ali\documents\visual studio 2012\Projects\MvcApplication1\Manage
 C:\Users\zubair ali\Documents\Visual Studio 2012\Projects\MvcApplication1\Manager\bin\Debug\Setting\setting.xml
 C:\Users\zubair ali\Documents\Visual Studio 2012\Projects\MvcApplication1\Manager\bin\Debug\DataAccess.dll
 C:\Users\zubair ali\Documents\Visual Studio 2012\Projects\MvcApplication1\Manager\bin\Debug\DataAccess.pdb
+D:\AppveyorTest\MvcApplication1\Manager\bin\Debug\Setting\setting.xml
+D:\AppveyorTest\MvcApplication1\Manager\bin\Debug\Manager.dll
+D:\AppveyorTest\MvcApplication1\Manager\bin\Debug\Manager.pdb
+D:\AppveyorTest\MvcApplication1\Manager\bin\Debug\DataAccess.dll
+D:\AppveyorTest\MvcApplication1\Manager\bin\Debug\DataAccess.pdb
+D:\AppveyorTest\MvcApplication1\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+D:\AppveyorTest\MvcApplication1\Manager\obj\Debug\Manager.dll
+D:\AppveyorTest\MvcApplication1\Manager\obj\Debug\Manager.pdb

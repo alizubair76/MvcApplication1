@@ -11,3 +11,17 @@ C:\Users\zubair ali\Documents\Visual Studio 2012\Projects\MvcApplication1\UnitTe
 C:\Users\zubair ali\Documents\Visual Studio 2012\Projects\MvcApplication1\UnitTestProject1\bin\Debug\Setting\setting.xml
 C:\Users\zubair ali\Documents\Visual Studio 2012\Projects\MvcApplication1\UnitTestProject1\bin\Debug\DataAccess.dll
 C:\Users\zubair ali\Documents\Visual Studio 2012\Projects\MvcApplication1\UnitTestProject1\bin\Debug\DataAccess.pdb
+D:\AppveyorTest\MvcApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\AppveyorTest\MvcApplication1\UnitTestProject1\bin\Debug\Setting\setting.xml
+D:\AppveyorTest\MvcApplication1\UnitTestProject1\bin\Debug\Sample_Datafile2015.mdb
+D:\AppveyorTest\MvcApplication1\UnitTestProject1\bin\Debug\Settings\Settings.xml
+D:\AppveyorTest\MvcApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\AppveyorTest\MvcApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\AppveyorTest\MvcApplication1\UnitTestProject1\bin\Debug\DataAccess.dll
+D:\AppveyorTest\MvcApplication1\UnitTestProject1\bin\Debug\Manager.dll
+D:\AppveyorTest\MvcApplication1\UnitTestProject1\bin\Debug\nunit.framework.dll
+D:\AppveyorTest\MvcApplication1\UnitTestProject1\bin\Debug\DataAccess.pdb
+D:\AppveyorTest\MvcApplication1\UnitTestProject1\bin\Debug\Manager.pdb
+D:\AppveyorTest\MvcApplication1\UnitTestProject1\bin\Debug\nunit.framework.xml
+D:\AppveyorTest\MvcApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\AppveyorTest\MvcApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
