@@ -105,7 +105,6 @@ namespace UnitTestProject1
         [Test]
         public void GetEmpNameTest()
         {
-
             string abc = "" + _GeneralFunctions.ExecuteScalar("Select Top 1 EmployeeID From Employee");
 
             var xyz = ActMgr.GetEmployee();
@@ -113,7 +112,6 @@ namespace UnitTestProject1
 
             Assert.That(xyz, Is.Not.Null);
             Assert.That(xyz, Is.EqualTo(abc));
-
         }
 
         [Test]
