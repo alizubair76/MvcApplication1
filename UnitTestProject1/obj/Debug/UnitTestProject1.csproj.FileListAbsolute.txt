@@ -25,3 +25,4 @@ D:\AppveyorTest\MvcApplication1\UnitTestProject1\bin\Debug\Manager.pdb
 D:\AppveyorTest\MvcApplication1\UnitTestProject1\bin\Debug\nunit.framework.xml
 D:\AppveyorTest\MvcApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 D:\AppveyorTest\MvcApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\zubair ali\Documents\Visual Studio 2012\Projects\MvcApplication1\UnitTestProject1\bin\Debug\Sample_Datafile2015.mdb
