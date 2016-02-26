@@ -17,8 +17,9 @@ namespace UnitTestProject1
     {
         public static OleDbConnection CreateConnection()
         {
-            string m_ConnectionString = "Provider=MSDAOSP.1;"
-                                     + "Data Source=" + Directory.GetCurrentDirectory() + @"\Sample_Datafile2015.mdb;"
+            string m_ConnectionString = "Provider=Microsoft.ACE.OLEDB.12.0;"
+                                     + "Data Source=" + Directory.GetCurrentDirectory() + @"\GalaxySampleTest.mdb;"
+                                     + "Persist Security Info=True;"
                                      + "Jet OLEDB:Database Password=admin;";
 
             OleDbConnection conn = new OleDbConnection();
