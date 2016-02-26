@@ -84,7 +84,7 @@ namespace UnitTestProject1
     [TestFixture]
     public class UnitTest1
     {
-        //[Test]
+        [Test]
         public void TestMethod1()
         {
             string abc = "" + _GeneralFunctions.ExecuteScalar("Select Top 1 EmployeeID From Employee");
