@@ -99,7 +99,7 @@ namespace UnitTestProject1
         [Test]
         public void TestMethod2()
         {
-            Assert.That(1 == 2, Is.False);
+            Assert.That(1 == 2, Is.True);
         }
 
         [Test]
