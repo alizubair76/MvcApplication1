@@ -76,8 +76,6 @@ namespace UnitTestProject1
             mail.To.Add(emailSettings.Element("To").Value);
             mail.Body = "Hello World";
             SmtpServer.Send(mail);
-
-
         }
 
     }
@@ -120,8 +118,8 @@ namespace UnitTestProject1
         [Test]
         public void ReadData()
         {
-          DataRowCollection dbResult =  Readdatafromdb.ReadData("select * from employee");
-          Assert.That(dbResult,Is.Not.Null);
+            DataRowCollection dbResult = Readdatafromdb.ReadData("select * from employee");
+            Assert.That(dbResult, Is.Not.Null);
         }
     }
 
