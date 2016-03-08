@@ -98,11 +98,11 @@ namespace UnitTestProject1
 
         }
 
-        //[Test]
-        //public void TestMethod2()
-        //{
-        //    Assert.That(1 == 2, Is.False);
-        //}
+        [Test]
+        public void TestMethod2()
+        {
+            Assert.That(1 == 2, Is.True);
+        }
 
         [Test]
         public void GetEmpNameTest()
