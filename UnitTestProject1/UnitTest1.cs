@@ -90,7 +90,7 @@ namespace UnitTestProject1
             string abc = "" + _GeneralFunctions.ExecuteScalar("Select Top 1 EmployeeID From Employee");
 
 
-
+ 
             var xyz = ActMgr.GetEmployee();
 
             Assert.That(xyz, Is.Not.Null,"returne Null");
